@@ -1,3 +1,10 @@
+#SUGGESTED BY CGPT
+Intermediate/
+Saved/
+DerivedDataCache/
+Binaries/
+.gradle/
+
 # Visual Studio 2015 user specific files
 .vs/
 
