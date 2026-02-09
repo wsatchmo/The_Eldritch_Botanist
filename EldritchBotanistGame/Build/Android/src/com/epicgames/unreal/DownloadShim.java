@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.gggg.teb.OBBDownloaderService;
-import com.gggg.teb.DownloaderActivity;
+import com.fourGStudios.AndroidQuickStart.OBBDownloaderService;
+import com.fourGStudios.AndroidQuickStart.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.gggg.teb.OBBData;
+import com.fourGStudios.AndroidQuickStart.OBBData;
 
 
 public class DownloadShim
